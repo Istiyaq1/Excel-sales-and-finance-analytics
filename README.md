@@ -14,7 +14,8 @@ Problem Statement
 To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
 __________________________________________________________________________________________________________________________________________________________________
-Sales Analysis
+Sales Analysis:
+
 
 Objectives
 
@@ -30,6 +31,11 @@ Objectives
 
 
 
+
+
+
+
+
 Sales Analysis Reports:
 
 
@@ -37,6 +43,7 @@ Sales Analysis Reports:
 
 
 Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+
 
 
 2->Division Sales Report
@@ -50,6 +57,7 @@ Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% i
 Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 
 
+
 3-> Top and Bottom 5 Sold Products
 
 
@@ -58,9 +66,11 @@ Top 5 Products by Quantity: Insights on best-performing products, with "AQ Maste
 Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments.
 
 
+
 4->New Products in 2021
 
 Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+
 
 
 
@@ -72,12 +82,14 @@ India led with $161.3 million in sales.
 
 Strong sales also noted in the USA, South Korea, the UK, and Canada.
 
+
 _______________________________________________________________________________________________________________________________________________________
 
 Financial Analysis:
 
 
-Objectives
+
+Objectives:
 
 Customer Net Sales Performance Report: Overview of revenue generated from customers.
 
@@ -92,6 +104,7 @@ Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each mar
 Quarterly Gross Margin Percentage (GM%) by Location: Profitability view by geographic area.
 
 
+
 Financial Analysis Reports:
 
 
@@ -100,9 +113,11 @@ Financial Analysis Reports:
 Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
 
 
+
 2->Market Performance vs. Sales Targets Comparison
 
 Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+
 
 
 3-> Yearly Profit and Loss (P&L) Report
@@ -110,9 +125,11 @@ Insights: Some markets exceeded their sales targets, while others fell short, pr
 Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 
 
+
 4-> Quarterly Profit and Loss (P&L) Comparison
 
 Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
+
 
 
 5->Market-Specific Profit and Loss (P&L) Report
@@ -120,12 +137,15 @@ Insights: Significant sales growth in 2021 with stable profit margins despite in
 Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 
 
+
 6->Quarterly Gross Margin Percentage (GM%) by Location
 
 Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
 
 
+
 Overall Insights:
+
 
 Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
 
