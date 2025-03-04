@@ -142,7 +142,7 @@ Insights: Japan and New Zealand showed the highest profit margins, while Germany
 
 Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
 
-
+______________________________________________________________________________________________________________________________________________________________
 
 Overall Insights:
 
